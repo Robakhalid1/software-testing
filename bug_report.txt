@@ -1,0 +1,1 @@
+Bug 1890724 - [css-color] Interpret color symbols in relative color syntax
